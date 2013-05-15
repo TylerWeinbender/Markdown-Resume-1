@@ -1,7 +1,15 @@
 Markdown-Resume
 ===============
 
+#Nathaniel Johnston
 
-* list item
-* list item
-* list item
+##Contact Information
+
+##Education 
+
+##References
+
+##Work Experience
+
+##Skillset
+
