@@ -1,6 +1,3 @@
-Markdown-Resume
-===============
-
 #Nathaniel Johnston
 
 ##Contact Information
